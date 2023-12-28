@@ -1,2 +1,9 @@
 This is my code line 1.
+<<<<<<< Updated upstream
 This is my whole managerial work.
+=======
+This is my code line 2.
+This is my code line 3.
+This is my code line 4.
+This is my code line 5.
+>>>>>>> Stashed changes
